@@ -1,0 +1,47 @@
+# Lab: Fizz Buzz - Text Edition
+
+## Summary: 
+
+Surprisingly, lots of professional programmers can't really 
+code[1]. FizzBuzz is a classic interview question for sussing-out 
+the non-skilled. 
+                  
+Here it is:
+    Write a program that prints the numbers from 1 to 100. 
+    But--
+      * For multiples of 3 print “Fizz” instead of the number 
+      * For the multiples of 5 print “Buzz”. 
+      * For numbers which are multiples of both 3 and 5 print “FizzBuzz”.
+
+
+## Requirements
+1. Implement toText method
+2. Write the correct output--described above-- to the console
+
+## Stretch Goals
+* Write unit tests to document and test.
+
+Notes:
+1. https://blog.codinghorror.com/why-cant-programmers-program/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Hints
+* Check out the built-in function [range](https://docs.python.org/3/library/functions.html#func-range).
+* To check divisibility, look into the operator [modulo](https://realpython.com/python-modulo-operator/)
+* For unit tests, here's a reference on the built-in framework [unittest](https://docs.python.org/3/library/unittest.html)
+
+

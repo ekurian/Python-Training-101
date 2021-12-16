@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": ".venv\\Scripts\\python.exe",
+  "terminal.integrated.environmentChangesIndicator": "off",
+  "editor.tabSize": 2
+}
